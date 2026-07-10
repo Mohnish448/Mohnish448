@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Mohnish 👋
 
-<!--
-**Mohnish448/Mohnish448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning Enthusiast passionate about building intelligent, user-focused applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 AI & Machine Learning Learner
+- 💻 Full-Stack Developer
+- 🤖 Interested in Generative AI, RAG Systems & Agentic AI
+- 🌱 Continuously learning and building real-world AI projects
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
+- R language
+
+**Frameworks & Libraries**
+- FastAPI
+- React
+- Next.js
+- React Native
+- Tailwind CSS
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Figma
+- Postman
+- ChromaD
+- android studio
+
+## 📌 Current Focus
+
+Building AI-powered applications that combine modern web technologies with machine learning to solve real-world problems.
+
+
+---
+
+*"Keep learning. Keep building."*
